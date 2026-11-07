@@ -11,4 +11,4 @@ java Main
 ```
 
 ## Screenshot Output Program
-![alt text](image.png)
+![alt text](output.png)
